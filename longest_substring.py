@@ -1,4 +1,4 @@
-# Given a string S consisting only of opening and closing parenthesis 'ie '(' and ')',
+# Given a string S consisting only of opening and closing parenthesis 'ie '(' and ')', 
 # find out the length of the longest valid(well-formed) parentheses substring.
 # NOTE: Length of the smallest valid substring ( ) is 2.
 
